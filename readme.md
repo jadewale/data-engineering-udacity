@@ -134,4 +134,3 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 
 
 
-copied from https://github.com/yuralim/udacity_dend_project1/blob/master/README.md
